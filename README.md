@@ -28,6 +28,11 @@ To reproduce: `python experiments/run_comparison.py --runs 5 --gens 100 --pop 10
 
 ## Quick Start
 
+### Easy Online Demo:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/austin-the-drake/pso-camopatch/main?filepath=demo.ipynb)
+
+### Local Use:
+
 Prerequisites: Python 3.8+, PyTorch, torchvision. Install with:
 
 ```bash
