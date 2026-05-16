@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: PSO-CamoPatch
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - family-names: Drake
+    given-names: Austin
+    email: austin.drake.343@gmail.com
+    affiliation: "University of Exeter"
+repository-code: https://github.com/austin-the-drake/pso-camopatch
+abstract: "Particle Swarm Optimization for adversarial patch generation. Evaluates PSO as an alternative search method to the original Evolutionary Strategy + Simulated Annealing approach in Williams & Li's CamoPatch."
+keywords:
+  - adversarial examples
+  - particle swarm optimization
+  - image adversarial attacks
+  - optimization
+license: MIT
